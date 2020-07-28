@@ -1,4 +1,4 @@
-<img align="right" src="./code_zombie.png"/>
+<img align="right" src="https://github.com/hollg/hollg/blob/master/code_zombie.png" />
 
 ### Hi there! I'm Gary 👋
 - 🔭 I’m currently working on [Atom Learning](https://atomlearning.co.uk)
